@@ -261,10 +261,10 @@ namespace project
         {
             try
             {
-                //frmAdCategory frm = new frmAdCategory();
-                //frm.ShowDialog();
-                //this.Show();
-                //loaddataCategory();
+                frmAdCategory frm = new frmAdCategory();
+                frm.ShowDialog();
+                this.Show();
+                loaddataCategory();
             }
             catch{}
         }
@@ -274,10 +274,10 @@ namespace project
         {
             try
             {
-                //frmAdFood frm = new frmAdFood();
-                //frm.ShowDialog();
-                //this.Show();
-                //loaddataCategory();
+                frmAdFood frm = new frmAdFood();
+                frm.ShowDialog();
+                this.Show();
+                loaddataCategory();
             }
             catch{}
         }
@@ -287,10 +287,10 @@ namespace project
         {
             try
             {
-                //frmAdTables frm = new frmAdTables();
-                //frm.ShowDialog();
-                //this.Show();
-                //loaddataTable();
+                frmAdTables frm = new frmAdTables();
+                frm.ShowDialog();
+                this.Show();
+                loaddataTable();
             }
             catch{}
         }
@@ -325,11 +325,11 @@ namespace project
             {
                 if (txtSTT.Text == "ONLINE")
                 {
-                    //frmAddFood addF = new frmAddFood(txtNameTable.Text, txtNameFood.Text, txtSTT.Text);
-                    //addF.ShowDialog();
-                    //this.Show();
-                    //loaddataTable();
-                    //loaddataBill();
+                    frmAddFood addF = new frmAddFood(txtNameTable.Text, txtNameFood.Text, txtSTT.Text);
+                    addF.ShowDialog();
+                    this.Show();
+                    loaddataTable();
+                    loaddataBill();
                 }
                 else if (txtSTT.Text == "DATTRUOC")
                 {
@@ -340,11 +340,11 @@ namespace project
                     DialogResult ms = MessageBox.Show("Bàn này đang trống. Mở bàn nhé?", "Lỗi", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                     if (ms == DialogResult.Yes)
                     {
-                        //frmAddFood addF = new frmAddFood(txtNameTable.Text, txtNameFood.Text, txtSTT.Text);
-                        //addF.ShowDialog();
-                        //this.Show();
-                        //loaddataTable();
-                        //loaddataBill();
+                        frmAddFood addF = new frmAddFood(txtNameTable.Text, txtNameFood.Text, txtSTT.Text);
+                        addF.ShowDialog();
+                        this.Show();
+                        loaddataTable();
+                        loaddataBill();
                     }
                 }
             }
@@ -362,11 +362,11 @@ namespace project
             {
                 if (txtSTT.Text == "ONLINE")
                 {
-                    //frmPay addF = new frmPay(txtNameTable.Text);
-                    //addF.ShowDialog();
-                    //this.Show();
-                    //loaddataTable();
-                    //loaddataBill();
+                    frmPay addF = new frmPay(txtNameTable.Text);
+                    addF.ShowDialog();
+                    this.Show();
+                    loaddataTable();
+                    loaddataBill();
                 }
                 else if (txtSTT.Text == "DATTRUOC")
                 {
@@ -391,11 +391,11 @@ namespace project
             {
                 if (txtSTT.Text == "ONLINE")
                 {
-                    //ReplaceTable addF = new ReplaceTable(txtNameTable.Text);
-                    //addF.ShowDialog();
-                    //this.Show();
-                    //loaddataTable();
-                    //loaddataBill();
+                    ReplaceTable addF = new ReplaceTable(txtNameTable.Text);
+                    addF.ShowDialog();
+                    this.Show();
+                    loaddataTable();
+                    loaddataBill();
                 }
                 else if (txtSTT.Text == "DATTRUOC")
                 {
@@ -420,11 +420,11 @@ namespace project
             {
                 if (txtSTT.Text == "ONLINE")
                 {
-                    //PlusTable addF = new PlusTable(txtNameTable.Text);
-                    //addF.ShowDialog();
-                    //this.Show();
-                    //loaddataTable();
-                    //loaddataBill();
+                    PlusTable addF = new PlusTable(txtNameTable.Text);
+                    addF.ShowDialog();
+                    this.Show();
+                    loaddataTable();
+                    loaddataBill();
                 }
                 else if (txtSTT.Text == "DATTRUOC")
                 {
@@ -449,11 +449,11 @@ namespace project
             {
                 if (txtSTT.Text == "ONLINE")
                 {
-                    //ReFood addF = new ReFood(txtNameTable.Text);
-                    //addF.ShowDialog();
-                    //this.Show();
-                    //loaddataTable();
-                    //loaddataBill();
+                    ReFood addF = new ReFood(txtNameTable.Text);
+                    addF.ShowDialog();
+                    this.Show();
+                    loaddataTable();
+                    loaddataBill();
                 }
                 else if (txtSTT.Text == "DATTRUOC")
                 {
@@ -470,9 +470,9 @@ namespace project
         //Khoa man hinh
         private void btnBlock_Click(object sender, EventArgs e)
         {
-            //Block addF = new Block(username, lblName.Text, password);
-            //addF.ShowDialog();
-            //this.Show();
+            Block addF = new Block(username, lblName.Text, password);
+            addF.ShowDialog();
+            this.Show();
         }
 
         //In hoa don
