@@ -1,0 +1,20 @@
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\project.exe
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\project.pdb
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\Interop.WMPLib.dll
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\AxInterop.WMPLib.dll
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdAccount.resources
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.ChangePersional.resources
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmLogin.resources
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmMain.resources
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.Properties.Resources.resources
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.cache
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.CoreCompileInputs.cache
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.exe
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.pdb
+D:\DoAn_05112022\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.AssemblyReference.cache
