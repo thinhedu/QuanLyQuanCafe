@@ -16,7 +16,7 @@ namespace project
         {
             try
             {
-                connection.ConnectionString = @"Data Source=NTAN\SQLEXPRESS;Initial Catalog=QL_QUANCAFE;Integrated Security=True";
+                connection.ConnectionString = @"Data Source=DESKTOP-1NMOG14\SQLEXPRESS;Initial Catalog=QL_QUANCAFE;Integrated Security=True";
                 connection.Open();
             }
             catch { }
